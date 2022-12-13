@@ -1,4 +1,4 @@
-
+alert("Valod")
 
 // MY SCRIPT
 
